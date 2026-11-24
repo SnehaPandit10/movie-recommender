@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+shrink.py
+similarity_backup.pkl
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
